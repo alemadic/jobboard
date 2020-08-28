@@ -1,0 +1,20 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+.pogresnoPolje {
+    border: 1px solid red;
+}
+
+.container {
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 30%;
+}
